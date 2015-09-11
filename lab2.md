@@ -9,7 +9,4 @@ copyright, patent, trademark, and attribution notices on all derived works and g
 7/8:For a developer, the BSD is the best because it lets the developer stand back and let others do all the work for him. for the general
 public ,the GPL works best because it guarentees the same rights to everyone. For a company, the LGPL works best because it allows
 for becasue they are able to make proprietory software for themselves.
-9:For our project we will be working with Barry and Cole to create a public repository of games that will be made by devs for devs.
-We will be using the F Technology stack. We decided this because X. In this case an MIT license would be best. This is because
-it will not restrict access to adding to and modifying the repository which is necessary for the team-programming environment
-we were going for.
+9:For our project we will be working with Barry and Cole to create a public repository of games that will be made by devs for devs. We will be using the MARS Technology stack. We decided this because it was the one we were most familiar with. In this case an MIT license would be best. This is because it will not restrict access to adding to and modifying the repository which is necessary for the team-programming environment we were going for.
